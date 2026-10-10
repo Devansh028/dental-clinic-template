@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://demo-dental-template.example.com/sitemap.xml
